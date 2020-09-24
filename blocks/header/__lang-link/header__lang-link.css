@@ -8,6 +8,7 @@
     color: #FFFFFF;
     margin-right: 18px;
     position: relative;   
+}
 
 .header__lang-link:active {
     text-decoration: underline;

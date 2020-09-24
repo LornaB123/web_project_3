@@ -1,7 +1,7 @@
 .lead__image{
     max-width: 984px;
     max-height: 615px;
-    background-image: url("../../../images/kalegin-michail-179870-unsplash.png");
+    
     margin: 148px;
     z-index: 1;
 }
