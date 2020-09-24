@@ -2,11 +2,12 @@
     min-height: 740px;
     display: flex;
     background-image: url(../../../images/__background.png);
-    justify-self: center;
-    align-items: center;
     color: #ffffff;
     flex-direction: column;
     position: relative;
+    text-decoration: none;
+    justify-self: center;
+    align-items: center;
 }
 
 .cover__link::after {
