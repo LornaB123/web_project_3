@@ -2,4 +2,8 @@
     display: flex;
     margin: 0 auto;
     justify-content: flex-end;
+    max-height: 44px;
+    min-height: 36px;
+    position: relative;
+    padding-top: 34px;
 }
