@@ -1,8 +1,10 @@
 .lead__caption {
     min-width: 183px;
     max-height: 14px;
-    size: 10px;
+    font-size: 10px;
     line-height: 14px;
     text-transform: capitalize;
     letter-spacing: 0.15em;
+    align-self: flex-start;
+    margin: 0;
 }
