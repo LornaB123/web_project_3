@@ -1,4 +1,5 @@
 .place__website {
     min-width: 484px;
+    align-self: bottom;
     
 }

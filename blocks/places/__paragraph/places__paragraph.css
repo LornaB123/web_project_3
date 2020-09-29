@@ -1,5 +1,6 @@
 .places__paragraph {
-    max-width: 484px;
+    max-width: 100%;
     font-size: 18px;
     line-height: 163%;
+    margin: 0 auto 24px;
 }
