@@ -3,5 +3,5 @@
     margin: 92px auto 92px;
     display: flex;
     flex-direction: column;
-    row-gap: 80px;
+    gap: 80px;
 }
