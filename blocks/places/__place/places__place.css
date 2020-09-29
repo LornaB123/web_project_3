@@ -3,6 +3,6 @@
     margin: 0 auto;
     display: grid;
     grid-template-columns: 460px 1fr; 
-    grid-template-rows: auto 460px;
+    grid-template-rows: auto auto;
     grid-column-gap: 40px;
 }
