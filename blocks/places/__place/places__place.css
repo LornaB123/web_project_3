@@ -4,5 +4,5 @@
     display: grid;
     grid-template-columns: 460px 1fr; 
     grid-template-rows: auto 460px;
-    grid-column-gap: 16px;
+    grid-column-gap: 40px;
 }
