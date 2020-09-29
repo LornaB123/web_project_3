@@ -5,3 +5,20 @@
     object-fit: cover;
 }
 
+@media screen and (max-width: 1120px){
+    .photo-grid__image {
+        max-width: 300px;
+    }
+ }
+ 
+ @media screen and (max-width: 860px){
+    .photo-grid__image {
+         max-width: 352px;
+     }
+ }
+ 
+ @media screen and (max-width: 425px){
+     .photo-grid__image {
+         max-width: 288px;
+     }
+ }

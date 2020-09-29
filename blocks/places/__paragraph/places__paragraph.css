@@ -6,3 +6,24 @@
     margin: 0 auto 24px;
 }
 
+@media screen and (max-width: 1120px) {
+    .places__paragraph {
+        max-width: 928px;
+        font-size: 18px;
+        line-height: 163%;
+    }
+}
+
+@media screen and (max-width: 860px) {
+    .places__paragraph {
+        max-width: 720px;
+        font-size: 16px;
+        line-height: 163%;
+    }
+} 
+
+@media screen and (max-width: 425px) {
+    .places__paragraph {
+        max-width: 288px;
+    }
+}

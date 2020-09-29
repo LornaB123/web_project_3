@@ -19,8 +19,8 @@
     }
 } 
 
-/*@media screen and (max-width: 425px) {
+@media screen and (max-width: 425px) {
     .places__place {
         max-width: 320px;
     }
-}*/
+}

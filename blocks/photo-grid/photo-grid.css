@@ -12,19 +12,19 @@
 }
 
 @media screen and (max-width: 1120px){
-   .photo__grid {
+   .photo-grid {
        max-width: 928px;
    }
 }
 
 @media screen and (max-width: 860px){
-    .photo__grid {
+    .photo-grid {
         max-width: 720px;
     }
 }
 
 @media screen and (max-width: 425px){
-    .photo__grid {
+    .photo-grid {
         max-width: 288px;
     }
 } 
