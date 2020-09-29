@@ -3,7 +3,7 @@
     margin: 0 auto;
 }
 
-@media screen and (max-width: 1120px){
+/* @media screen and (max-width: 1120px){
    .page__container {
        max-width: 928px;
    }
@@ -19,4 +19,4 @@
     .page__container {
         max-width: 288px;
     }
-}
+} */

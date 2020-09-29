@@ -3,3 +3,21 @@
     height: 460px;
     margin: 0 auto;
 }
+
+/*@media screen and (max-width: 1120px) {
+    .places__image {
+        max-width: 440px;
+    }
+}
+
+@media screen and (max-width: 860px) {
+    .places__image {
+        max-width: 340px;
+    }
+} */
+
+@media screen and (max-width: 425px) {
+    .places__image {
+        max-width: 320px;
+    }
+}

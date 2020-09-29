@@ -6,3 +6,21 @@
     grid-template-rows: auto auto;
     grid-column-gap: 40px;
 }
+
+@media screen and (max-width: 1120px) {
+    .places__place {
+        max-width: 928px;
+    }
+}
+
+@media screen and (max-width: 860px) {
+    .places__place {
+        max-width: 720px;
+    }
+} 
+
+/*@media screen and (max-width: 425px) {
+    .places__place {
+        max-width: 320px;
+    }
+}*/
