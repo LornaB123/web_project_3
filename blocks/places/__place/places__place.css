@@ -9,18 +9,19 @@
 
 @media screen and (max-width: 1120px) {
     .places__place {
-        max-width: 928px;
+        grid-column-gap: 32px;
+        
     }
 }
 
 @media screen and (max-width: 860px) {
     .places__place {
-        max-width: 720px;
+        grid-column-gap: 28px;
     }
 } 
 
 @media screen and (max-width: 425px) {
     .places__place {
-        max-width: 320px;
+        display: block;
     }
 }
