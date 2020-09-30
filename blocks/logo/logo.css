@@ -5,3 +5,9 @@
     left: 0px;
     position: absolute;
 }
+
+ @media screen and (max-width: 425px) {
+    .logo {
+       max-width: 156px;  
+    }
+ }

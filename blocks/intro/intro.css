@@ -6,19 +6,19 @@
 }
 
 @media screen and (max-width: 1120px) {
-   .cover__link {
-       min-height: 640px;
-   }
+   .intro {
+       max-width: 690px;
+   } 
 }
 
 @media screen and (max-width: 860px) {
-   .cover__link {
-       min-height: 480px;
+   .intro {
+      max-width: 720px;
    }
 }
 
 @media screen and (max-width: 425px) {
-   .cover__link {
-       min-height: 200px;
+   .intro {
+      max-width: 288px;  
    }
 }
