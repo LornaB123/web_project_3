@@ -16,6 +16,6 @@
     .intro__subtitle {
         font-size: 24px;
         line-height: 30px;  
-        margin: 40px 16px 32px;
+        margin: 40px auto 32px;
     }
 }
