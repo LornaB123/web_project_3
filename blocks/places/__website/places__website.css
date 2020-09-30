@@ -2,3 +2,9 @@
     min-width: 484px;
     align-self: bottom;
 }
+
+@media screen and (max-width: 425px) {
+    .places__website {
+        display: none;
+    }
+}

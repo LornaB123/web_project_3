@@ -9,5 +9,6 @@
       .footer {
           flex-direction: column;
           min-height: 198px;
+          margin-bottom: 32px;
       }
   }
