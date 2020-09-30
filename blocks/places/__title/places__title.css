@@ -9,8 +9,8 @@
 @media screen and (max-width: 1120px) {
     .places__title {
         max-width: 928px;
-        font-size: 18px;
-        line-height: 163%;
+        font-size: 72px;
+        line-height: 76px;
     }
 }
 

@@ -9,5 +9,6 @@
  @media screen and (max-width: 425px) {
     .logo {
        max-width: 156px;  
+       top: 20px;
     }
  }

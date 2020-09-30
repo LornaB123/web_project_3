@@ -8,3 +8,21 @@
     position: relative;
     padding-top: 34px;
 }
+
+@media screen and (max-width: 1120px){
+    .header {
+        max-width: 928px;
+    }
+ }
+ 
+ @media screen and (max-width: 860px){
+    .header {
+         max-width: 720px;
+     }
+ }
+ 
+ @media screen and (max-width: 425px){
+     .header {
+         max-width: 288px;
+     }
+ }

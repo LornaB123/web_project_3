@@ -4,3 +4,21 @@
     margin: 0 148px 0;
     z-index: 1;
 }
+
+@media screen and (max-width: 1120px){
+    .lead__image {
+        max-width: 928px;
+    }
+ }
+ 
+ @media screen and (max-width: 860px){
+    .lead__image {
+         max-width: 768px;
+     }
+ }
+ 
+ @media screen and (max-width: 425px){
+     .lead__image {
+         max-width: 320px;
+     }
+ }
