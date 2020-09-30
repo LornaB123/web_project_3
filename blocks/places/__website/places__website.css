@@ -1,6 +1,6 @@
 .places__website {
-    min-width: 484px;
-    align-self: bottom;
+    align-self: flex-end;
+    margin-bottom: 48px;
 }
 
 @media screen and (max-width: 425px) {
