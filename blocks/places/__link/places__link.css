@@ -4,10 +4,11 @@
     text-decoration-line: underline;
     color: #FFFFFF;
     margin-bottom: 48px;
+    opacity: 1;
 }
 
 .places__link:hover {
     opacity: 0.8;
-    transition: ease-in-out;
+    transition: color 2s ease .5s;
     cursor: pointer;
 }

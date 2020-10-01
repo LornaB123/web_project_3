@@ -5,11 +5,13 @@
     color: #FFFFFF;
     margin-right: 18px; 
     margin-top: 12px;
+    margin-left: 18px;
+    opacity: 1;
 }
 
 .header__lang-link:hover {
     opacity: .8;
-    transition: ease-in-out;
+    transition: color 2s ease .5s;
 }
 
 .header__lang-link_english {

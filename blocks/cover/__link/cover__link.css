@@ -26,7 +26,7 @@
 
 .cover__link:hover::after {
     opacity: 0.8;
-    transition: ease-in-out;
+    transition: color 2s ease .5s;
 }
 
 @media screen and (max-width: 1120px) {
