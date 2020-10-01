@@ -1,4 +1,5 @@
 # Project 3: From Portland to Portland
+*[Link to my project on GitHub](https://lornab123.github.io/web_project_3/)
 
 ### Overview
 * Intro
