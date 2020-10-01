@@ -1,9 +1,9 @@
-@import url("./__container/page__container.css");
-
 .page {
     margin: 0 auto;
     background: #2A2C2F;
     color:#FFFFFF; 
     font-family: 'Inter', 'Arial', sans-serif;
     font-style: normal;
+    max-width: 1184px;
+    margin: 0 auto;
 }
