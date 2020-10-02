@@ -28,7 +28,7 @@
     }
 } 
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 529px) {
     .places {
         max-width: 320px;
         row-gap: none;
