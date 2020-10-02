@@ -18,6 +18,7 @@
     .places__place {
         grid-column-gap: 28px;
         grid-template-columns: 340px 1fr; 
+        align-self: end;
     }
 } 
 
