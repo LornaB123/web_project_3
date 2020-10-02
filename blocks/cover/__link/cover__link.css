@@ -3,6 +3,7 @@
     display: flex;
     background-image: url(../../../images/__background.png);
     background-position: center;
+    background-repeat: no-repeat;
     color: #ffffff;
     flex-direction: column;
     position: relative;
