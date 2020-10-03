@@ -4,6 +4,7 @@
     background-image: url(../../../images/__background.png);
     background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
     color: #ffffff;
     flex-direction: column;
     position: relative;

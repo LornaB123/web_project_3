@@ -13,9 +13,7 @@
     transition: color 2s ease .5s;
 }
 
-.header__lang-link_english {
-    text-decoration: underline;
-}
+
 
 .header__lang-link:last-of-type {
     margin-right: 0;
